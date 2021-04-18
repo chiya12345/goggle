@@ -1,0 +1,11 @@
+h3{
+    font-size:25px !importent
+}
+.btn-sucsses:hover{
+    background-color:blue;
+}
+body{
+    background-image:url("g.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
